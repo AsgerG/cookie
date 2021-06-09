@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0,'C:/Users/Bruger/Desktop/DTU/MLOps/Thomas/mlops/cookiecutter_project/src/data/')
+sys.path.insert(0,'C:/Users/Bruger/Desktop/DTU/MLOps/cookie/src/data/')
 
 from make_dataset import load_mnist
 #from cookiecutter_project.src.data.make_dataset import load_mnist
